@@ -27,7 +27,7 @@ namespace web
         public int  topla(int deyer1,int deyer2)
         {
             int result = deyer1 + deyer2;
-            return result * 2;
+            return result * 3;
         }
     }
 }
